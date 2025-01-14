@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Abdulfattah Morad, known as Piporélele
-- 🌱 I’m currently studying for a master's in computer engineering.
+- 🌱 I’m currently studying for a master's in computer science engineering.
 - 📫 
 <!--
 **Piporelele/Piporelele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
